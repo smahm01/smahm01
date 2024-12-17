@@ -5,7 +5,7 @@ I am _Sadek Mahmood_! I am an experienced developer skilled in Java, Python, Ful
 ### 🌱 What do I do and What have I done? 
 
 - Currently interning at Environment Climate Change Canada as a Programmer/Data Analyst
-- Interned as a digital data engineering intern at Alstom in summer 2023
+- Interned as a digital data engineering intern at Alstom in the Summer of 2023
 - Participated in multiple hackathons and won a category in Code.Jam 11!
 - 4th year as a Software Engineering student at McGill University
 - Completed multiple full stack projects both outside of and inside of school
