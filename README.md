@@ -14,8 +14,6 @@ I am _Sadek Mahmood_! I am an experienced developer skilled in Java, Python, Ful
 - [LinkedIn](linkedin.com/in/sadekmahmood) 
 - sadek.mahmood@mail.mcgill.ca
 
-I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
 
 ***
 
